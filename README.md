@@ -1,18 +1,37 @@
+# Hi there, I'm @Marques-Sanches! 👋
 
-👋 Hi, I’m @Marques-Sanches
+## About Me
+I'm a programmer with a passion for cybersecurity, system administration, and software development. I'm currently studying at **42 Luanda**, where I’m developing my skills in programming and problem-solving.
 
-👀 I’m interested in cybersecurity, system administration, and software development.
+## Interests
+- Cybersecurity
+- System Administration
+- Software Development
 
-🌱 I’m currently learning more about advanced cybersecurity practices and network protocols.
+## Current Learning
+- Advanced Cybersecurity Practices
+- Network Protocols
 
-💞️ I’m looking to collaborate on open-source projects related to security research and system optimization.
+## Let's Collaborate!
+I'm looking to collaborate on open-source projects related to security research and system optimization.
 
-📫 How to reach me: filipejoaquim828@gmail.com || connect with me on LinkedIn: www.linkedin.com/in/manuel-joaquim-aa52b9330.
+## Contact Me
+- Email: [filipejoaquim828@gmail.com](mailto:filipejoaquim828@gmail.com)
+- LinkedIn: [linkedin.com/in/manuel-joaquim-aa52b9330](https://www.linkedin.com/in/manuel-joaquim-aa52b9330)
 
-😄 Pronouns: He/Him
+## Fun Fact
+I’m a programmer, but I don’t drink coffee! ⚡
 
-⚡ Fun fact: I’m a programmer, but I don’t drink coffee!
-<!---
-Marques-Sanches/Marques-Sanches is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Badges
+![Python Badge](https://img.shields.io/badge/Python-3.8-blue)
+![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-blue)
+
+## Code of Conduct
+We are committed to providing a friendly and welcoming environment for all participants in our community.
+
+## Contributing
+We welcome contributions from everyone!
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
