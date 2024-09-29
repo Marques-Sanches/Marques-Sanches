@@ -23,15 +23,12 @@ I'm looking to collaborate on open-source projects related to security research 
 I’m a programmer, but I don’t drink coffee! ⚡
 
 ## Badges
-![Python Badge](https://img.shields.io/badge/Python-3.8-blue)
-![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-blue)
+![Virtualization](https://img.shields.io/badge/Virtualization-VMware-0078D4?logo=vmware)
+![Network](https://img.shields.io/badge/Networking-Cisco-0054A5?logo=cisco)
+![Mathematics](https://img.shields.io/badge/Mathematics-Statistics-blue?logo=mathematics)
+![Docker](https://img.shields.io/badge/Docker-20.10-blue?logo=docker)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-D54A00?logo=ubuntu)
+![Git](https://img.shields.io/badge/Git-2.31.1-f05032?logo=git)
+![C](https://img.shields.io/badge/C-11-A8B400?logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus)
 
-## Code of Conduct
-We are committed to providing a friendly and welcoming environment for all participants in our community.
-
-## Contributing
-We welcome contributions from everyone!
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
